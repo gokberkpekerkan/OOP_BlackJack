@@ -25,4 +25,4 @@ Blackjack (also known as 21) is a card game where the goal is to beat the dealer
 🏆 Winning:
 - You win if your hand is closer to 21 than the dealer's.
 - It's a tie (push) if both have the same total.
-- ou lose if you bust or the dealer has a better hand.
+- You lose if you bust or the dealer has a better hand.
